@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/465cf78a-ab67-4f9c-a413-c40719be33bf" width="150" alt="Logo" />
+  <img src="https://github.com/user-attachments/assets/0f31615e-42b7-49d4-b4aa-58fca4ed03c5" width="150" alt="Logo" />
 </p>
 
 # 🎓 Smaratungga Dev
